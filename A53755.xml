@@ -1,0 +1,539 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New England freemen warned and warmed to be free indeed, having an eye to God in their elections in a sermon preached before the Court of Election at Boston on the last day of May, 1671 [by] J.O., pastour of the first church in Boston.</title>
+            <author>Oxenbridge, John, 1609-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53755</idno>
+            <idno type="STC">Wing O837</idno>
+            <idno type="STC">ESTC R28765</idno>
+            <idno type="EEBO-CITATION">10758693</idno>
+            <idno type="OCLC">ocm 10758693</idno>
+            <idno type="VID">45675</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45675)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New England freemen warned and warmed to be free indeed, having an eye to God in their elections in a sermon preached before the Court of Election at Boston on the last day of May, 1671 [by] J.O., pastour of the first church in Boston.</title>
+                  <author>Oxenbridge, John, 1609-1674.</author>
+               </titleStmt>
+               <extent>[4], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Cambridge, Mass. :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages torn with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Election sermons --  Massachusetts.</term>
+               <term>Sermons, American --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45675:1" rendition="simple:additions"/>
+            <p>New-England Freemen Warned and Warmed, <hi>To be Free indeed, having an Eye to God in their ELECTIONS:</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Sermon Preached before the Court of ELECTION <hi>At Boſton, on the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt Day of</hi> May, <hi>1671.</hi>
+            </p>
+            <p>
+               <hi>J. O.</hi> Paſtour of the firſt Church in <hi>Boſton.</hi>
+            </p>
+            <p>Publiſhed by Order of the General Court.</p>
+            <p>
+               <hi>Printed in the</hi> Year. <hi>1673.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:45675:2"/>
+            <pb facs="tcp:45675:2"/>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Was invited by the Houſe of De<g ref="char:EOLhyphen"/>puties to Preach at the time and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the occaſion mentioned in the <hi>Title page,</hi> and that work (though very mean) ſound that acceptance, that <hi>Captain Savage</hi> the <hi>Speaker</hi> with <hi>Captain Clark</hi> came in the name of that Houſe to give me thanks: Since which the Deputies, with the concurrence of the Magiſtrates ordered the Printing of this poor piece; It was once in my thoughts here to have prefaced an Explication of ſome particulars, which it ſeems did not ſound well in the ears of two or three perſons whom I honour; but my ſecond thoughts did contradict, telling me my Order was only for the Printing of the Sermon, and that the ex<g ref="char:EOLhyphen"/>plication and defence thereof (if a tincture of prejudice (did remain) might as well be mi<g ref="char:EOLhyphen"/>ſtaken as the Sermon, and ſo occaſion inconve<g ref="char:EOLhyphen"/>nient alteration; wherefore I forbear being conſcious to my ſelf of no other ſcope nor mean<g ref="char:EOLhyphen"/>ing then what will be agreeable to all faithful
+<pb facs="tcp:45675:3"/>Pa<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and true lovers of this Country, with whe<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> before I am willing to leave this Te<g ref="char:EOLhyphen"/>ſtimony before I dye; and that it may appear that I aim at what was in the heart of ſome long before me in time and worth; take ſome paſſages which have had unqueſtioned allow<g ref="char:EOLhyphen"/>ance in this Land:</p>
+            <p>
+               <hi>Mr. Shepard</hi> in his firſt part of the <hi>Para<g ref="char:EOLhyphen"/>ble of the Virgins,</hi> page 166. Who ſeeth not (that obſerves the Lords dealing) that ſome ſorrows are toward, unleſs the Lord a<g ref="char:EOLhyphen"/>waken, ſome ſuddain blaſting blow. If any wind be ſtirring, men on the tops of the moun<g ref="char:EOLhyphen"/>tains will feel it, and its folly to think to flee from the croſſe unleſs we flee from Chriſt. 'Tis part of the portion he doth owe us here, if he love us.</p>
+            <p>I do fear there is at this day as deep miſchief plotting againſt <hi>New-England</hi> as e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the Sun ſaw: Enemies will firſt deal ſubtilly be<g ref="char:EOLhyphen"/>fore cruelly, but ſubtilly that they may deal cruelly; When <hi>Pharaoh</hi> deals wiſely, he means to kill:</p>
+            <p>Being come hither for publick helpe and means and all ordinances, Oh do not betray your liberties, but loſe your blood before you loſe them, and the Lord in them; bear the Ark ſtill on your ſhoulders that the Lord may, dwell with you.</p>
+            <pb facs="tcp:45675:3"/>
+            <p>
+               <hi>Idem 2d. part, page</hi> 16. If ever this Coun<g ref="char:EOLhyphen"/>try receive a blovv it vvill be by appearances, if ever any ſhall come under an appearance of piety and promiſe of protection, ſafety, liberty, only your Government muſt be a little altered, ſlumber here and you ſhall ſleep in your ene<g ref="char:EOLhyphen"/>mies arms.</p>
+            <p>
+               <hi>Idem</hi> page 198. An Objection is made, <hi>What power have Churches to keep out them that be Baptized?</hi>
+            </p>
+            <p>
+               <hi>The Anſwer:</hi> The Apoſtle is punctual to it, <hi>2 Tim 3.</hi> 5. ſpeaking of the laſt dayes, ha<g ref="char:EOLhyphen"/>ving a form of godlineſs, turn away from ſuch, he ſaith not, let them in and turn to them, and if they prove evil members cut them off and turn them from you, but turn avvay from them; he ſaith not if they be prophane or not baptiz'd and cannot ſay I vvas humbled &amp; novv I believe, but vvhich is more if they have a form <hi>Ezek.</hi> 44.8, 9. you have ſet keepers of my charge in my Sanctuary for your ſelves: thus ſaith the Lord God, no ſtranger uncircumci<g ref="char:EOLhyphen"/>zed in heart, nor uncircumciſed in fleſh ſhall enter into my Sanctuary, <hi>Heb.</hi> 12.15. looking diligently leaſt any root of bitterneſs ſpring<g ref="char:EOLhyphen"/>ing up trouble you, he doth not ſay it is no matter vvhat roots you ſet in Chriſts Gar<g ref="char:EOLhyphen"/>den, only vvhen they ſpring up and begin to feed and infect others, then have a care of them
+<pb facs="tcp:45675:4"/>The Lord that forbids me to ſuffer Weeds to grow forbids my careleſsneſs in ſowing what ſeed, I pleaſe.</p>
+            <p>
+               <hi>Idem</hi> page 199. <hi>Paul</hi> may fear with a godly jealcuſie ſome of the <hi>Corinthian</hi> Church, <hi>2 Cor. 12.</hi> yet he calls them all Saints, and dares not mince his ſpeeches with ſuch notions of probabillity; a morral certainty, a man may and ſhould have of all Church-members, a certainty of faith conditional, but not ab<g ref="char:EOLhyphen"/>ſolute.</p>
+            <p>
+               <hi>Idem</hi> page 200. Let all Gods people, Watchmen on Gods Walls, ſtill be watchful and careful, there be temptations enough to make men fill and peſter Gods Houſe with Swine; one hath his Friend, and his affection leed him; another, he is a man of eſtate and his Money is in the mouth of his Sack; ano<g ref="char:EOLhyphen"/>ther thinks there is one bad enough, but we ſhall do well enough with them.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:45675:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Hoſea 8.4.</hi>
+                  </bibl>
+                  <p>They have ſet up Kings but not by me, they have made Princes and I knew it not.</p>
+               </q>
+            </epigraph>
+            <p>MEn, Fathers and Brethren, what<g ref="char:EOLhyphen"/>ſoever you expect or ſuſpect of me, I would neither expect nor ſuſpect of you the repreſen<g ref="char:EOLhyphen"/>tative body of a high profeſſing People, that you ſhould take up this ſolemn worſhip of God as a bare ceremony to attend the Granduer of the day, but would hope you come to look up to the great God, that he may give us <hi>ſome meat in this ſeaſon.</hi> Pſal. 145.15. But then look we to him with a ſingle eye, for if we come reſolved to him, &amp; not to be reſolved by him; <hi>we diſſemble in our hearts,</hi> as they, Jer. 42.10. They ask coun<g ref="char:EOLhyphen"/>ſel but take it not, Come not I pray you to enquire with an <hi>Idol in your heart,</hi> Ezek. 14.7. If there be here any of you with an Idol of prejudice, not to do what you hear; or a fixed purpoſe to do whatſoever you had a mind to before, be it right or wrong; let ſuch an Idoll fall down before the Living
+<pb n="2" facs="tcp:45675:5"/>God, but whatſoever go will do, the Lord tells me what I muſt do, <hi>Ezek. 2.9. Thou ſhalt ſpe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k my words, whether they <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> or whether they will f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rbear,</hi> and the words he hath at this time put into my mouth are theſe, <hi>They hav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſet up Kings:</hi>
+            </p>
+            <p>Whoſe coherence is this in the firſt verſe, the Prophet hath order from the Lord of Hoſts to ſound an Alarm with the greateſt earneſtneſs, with a Trumpet <hi>from the roof of his mouth</hi> againſt ſecure Hypocrites, <hi>&amp;</hi> ſo to ſignifie the aproach of a ſwift and ravenous enemy, <hi>as an Eagle</hi> againſt the ten Tribes; and this notwithſtanding any pretence to their Church eſtate, or being a <hi>houſe of God,</hi> and profeſſing themſelves to own, know and acknowledge him: <hi>ver.</hi> 2. they will cry <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God we know thee,</hi> now the reaſon of Gods ſevere proceeding againſt them is, be<g ref="char:EOLhyphen"/>cauſe they have broke the ſubſtance of their Covenant with God in the main Articles of it, <hi>tranſgr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed my Covenant, and treſ<g ref="char:EOLhyphen"/>paſſed againſt any Law, and caſt off the thing what his good,</hi> which is, that which the Co<g ref="char:EOLhyphen"/>venant and Law require, and in this 4th. <hi>ver.</hi> is a proof of their thus breaking with God in their civil and religious adminiſtration the former is our preſent concern; <hi>They have ſet up Kings:</hi>
+            </p>
+            <pb n="3" facs="tcp:45675:5"/>
+            <p>
+               <hi>Explic. They have ſet up Kings but not by me,</hi> the 70 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> they have Kinged it to themſelves and not to me, ſo the <hi>Syriack</hi> and <hi>vulgar Latine,</hi> but the <hi>Arabick</hi> varies a little, they have reigned of themſelves and not from me, <hi>They have made Princes and I knew it not;</hi> the <hi>Grèek Syriack, vulgar Latine, Arabick,</hi> they were Princes &amp; told me not, but the <hi>Hebrew</hi> verbes in the Text being in hiphil, and ſo of tranſitive ſignification doth avouch our Tranſlation, and ſo the <hi>Chalde</hi> paraphraſeth they made to rule, and not from my minde and will; yet often the 70 as quoted in the <hi>N. T.</hi> enlargeth the next and expreſs ſenſe of the <hi>Hebrew,</hi> and ſo it may here be allo<g ref="char:EOLhyphen"/>wed and the matter will bear it well; For thoſe civil Governours that are of a corrupt conſtitution are not likely to carry on a godly adminiſtration, what power is ill laid in, will be ill laid out, <hi>Mich. 17. what is ga<g ref="char:EOLhyphen"/>thered of an Harlot will return to the hire of an harlot,</hi> what is from the flew will bring forth corruption, and ſo in caſe of the Text it proved, of all the Kings of the ten Tribes, we finde not one godly King: But for further concerning the ſenſe of the Text I would ſpeak to two Queſtions.</p>
+            <pb n="4" facs="tcp:45675:6"/>
+            <p>Queſt. <hi>1. How may we underſtand their ſet<g ref="char:EOLhyphen"/>ting up Kings and Princes and not by the Lord and his Knowledge?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> They did it not by his direction and approbation, they did never enquire and proſecute the minde of God in that bu<g ref="char:EOLhyphen"/>ſineſs, nor did the Lord know and approve their way and procedure as he doth <hi>the way of the righteous,</hi> Pſal. 1. ult.</p>
+            <p>Queſt. 2. <hi>How did they ſet up Kings and Princes without Gods approbation?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> not meerly (as I conceive) in ſetting up the Kingly Government, for that was revealed to be his will eventually, <hi>Deut. 17.14.</hi> but their ſin in firſt taking to this Government was their luſting after it out of ſeaſon and meaſure; this itching hu<g ref="char:EOLhyphen"/>mour in the <hi>Iſraelites</hi> was partly from their diſtruſting their God, and partly for <hi>Genti<g ref="char:EOLhyphen"/>lizing</hi> or conforming to the <hi>Gentiles,</hi> and it broke forth in <hi>Gideons</hi> time, <hi>Judg.</hi> 8.22, 23. they would have a Regal Hereditary Go<g ref="char:EOLhyphen"/>vernment, but <hi>Gideon</hi> ſuppreſſeth the mo<g ref="char:EOLhyphen"/>tion, and oppo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth the making a King in other time a manner then God appoin<g ref="char:EOLhyphen"/>ted, to be a rejecting of Gods Govern<g ref="char:EOLhyphen"/>ment; they ſay, <hi>rule thou over us, thou, and thy Son, and thy Sons Son,</hi> and <hi>Gideon</hi> ſaid unto them, <hi>I will not rule over you, neither
+<pb n="5" facs="tcp:45675:6"/>ſhall my Son rule over you;</hi> but who then? <hi>the Lord ſhall rule over you:</hi> But this luſt in that people did afterwards riſe, <hi>Judg.</hi> 9. to<g ref="char:EOLhyphen"/>ward his Baſtard Son <hi>Abime<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</hi> who had not that honeſt ſpirit to check it as his Fa<g ref="char:EOLhyphen"/>ther did; the ſame luſt was ſtirring in the <hi>Iſrae<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ites</hi> demand of a King, <hi>1 Sam.</hi> 8.5.7. and this the Lord counts the rejecting of his Government, by which formerly a fit in<g ref="char:EOLhyphen"/>ſtrument was deſigned by the Lord in every extremity, and thus far the ten Tribes did act with the other, in ſetting up Kings without Gods approbation; afterward I finde this ſinful proceeding to reign chiefly in the ten Tribes, for they knew the will of God, for the ſucceſſion of <hi>David</hi> the Type of Chriſt, <hi>2 Sam.</hi> 5.2 yet they firſt ſet up <hi>Iſhboſheth,</hi> and afterward <hi>Abſalom,</hi> and then inclined to <hi>Sheba,</hi> in all which they neither ſought nor had the approbation of God, and by this luſt were the ten Tribes acted in ſet<g ref="char:EOLhyphen"/>ting up <hi>Ieroboam;</hi> for though it was by Gods providence ordering all events, yet neither did the people, nor <hi>Ieroboam</hi> enquire of God about it, but the people in diſcontent rebelled againſt the houſe of <hi>Dav d,</hi> &amp; <hi>Ierobo<g ref="char:EOLhyphen"/>am</hi> in his ambition did ſnatch at the offer of the ſeditious <hi>Iſraelites;</hi> thus did not <hi>Dav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> for though we was anointed King, yet nei<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:45675:7"/>in <hi>Sauls</hi> time would he put forth a hand to the Crown, nor after <hi>Sauls</hi> death had made the Throne vacant, would <hi>David</hi> ſtep one foot towards poſſeſſion of it, till he enquired after, and received Gods appro<g ref="char:EOLhyphen"/>bation, <hi>2 Sam. 2.1. David</hi> enquired of the Lord, <hi>ſhall I go up to any of the Cities of Iu<g ref="char:EOLhyphen"/>dah?</hi> but <hi>Ieroboam</hi> did neither take nor wear the Crown according to Gods counſel and rearms; And ſo it was with the Kings that ſucceeded him, and for the people that ſet up their Kings at their own pleaſure; ſo did they deſtroy them, <hi>Hoſ. 7.7. Being hot as an oven</hi> in their own paſſions and factions, <hi>they devour their Iudges, their Kings are fal<g ref="char:EOLhyphen"/>len, there is none that calls upon me,</hi> and pul<g ref="char:EOLhyphen"/>led down their Kings without Gods counſel or help, ſo that in <hi>two hundred years</hi> they had <hi>twenty</hi> Kings of <hi>ten</hi> ſeveral families; in the ſame time there were but <hi>eleven</hi> in <hi>Iu<g ref="char:EOLhyphen"/>dah,</hi> and all of <hi>Davids</hi> houſe: Now this their ſetting up Kings and Princes accord<g ref="char:EOLhyphen"/>ing to their own luſts was the more crimi<g ref="char:EOLhyphen"/>nal, becauſe they in word owned God to be their God in Covenant, <hi>my God we know thee;</hi> and for them to order their Govern<g ref="char:EOLhyphen"/>ment without taking notice of God, was a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat diſloyalty. From the words ſo depend<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng and explained, I offer this Doctrine:</p>
+            <pb n="7" facs="tcp:45675:7"/>
+            <p>Doct. <hi>It is expected of a People profeſſing themſelves the people of God, that they ſhould have regard to him in the consti<g ref="char:EOLhyphen"/>tution and adminiſtration of their Ma<g ref="char:EOLhyphen"/>giſtracy:</hi>
+            </p>
+            <p>This appears by,</p>
+            <p n="1">1. God reproving of the <hi>Iſraelites,</hi> in the Text the <hi>Iſraelites</hi> are charged with an omiſſion, not doing according to God in their Magiſtracy, which implies a rule and duty ſo to do, ſins of omiſſion import a duty omitted.</p>
+            <p n="2">2. By Gods approving thoſe that have this regard to him as well as his reproving them that have it not, <hi>Hoſ. 11. ult. Ephraim compaſſeth me about with lyes, and the houſe of Iſrael with deceit; but Iudah yet ruleth with God, and is faithful with the Saints:</hi> the ten Tribes retaining ſome profeſſion of God, but having no ſincere reſpect to him in their civil or religious matters, do but keep a cuſtomary round of lyes and hypocriſie in their profeſſion of God; but <hi>Iudah</hi> in their Government, keeping to the houſe of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> according to Gods command, and hold<g ref="char:EOLhyphen"/>ing with their Godly Anceſtors and their faithful remnant are approved by their God.</p>
+            <p>The Reaſons to gain the aſſent of your
+<pb n="8" facs="tcp:45675:8"/>underſtandings, and ſo to fetch in the con<g ref="char:EOLhyphen"/>ſent of your wills are theſe:</p>
+            <p>
+               <hi>Reaſ.</hi> 1. The eternal God doth expect of them that acknowledge him for their God, and themſelves for his people, that they ſhould be his univerſally and unchan<g ref="char:EOLhyphen"/>geably, and that his right to them ſhould not be limited to any place or caſe, but ſhould reach to their whole courſe, <hi>Pro. 3.6 In all thy wayes acknowledge him and he ſhall direct thy paths:</hi> Ye muſt acknowledge him in better and greater matters, as in other dayes ſo in this ſolemn day, if therein you expect he ſhall ſet you to rights, ye muſt not play faſt and looſe; ſometimes retain to God, and other times to Mammon, <hi>Mat. 6.24. Ye cannot ſerve God and Mammon,</hi> for they are ſo far two Maſters as never to be one, to that <hi>if ye hold to one ye will deſpiſe the other;</hi> If the intereſt of God and the publick intereſt in this Land call you to make one choice, and ſome worldly intereſt call you to another, if ye hold to the world<g ref="char:EOLhyphen"/>ly, ye deſpiſe God in this, however in other occaſions ye pretend to retain to him, your choice will diſcover whoſe indeed you are; your choice of a calling, your choice of a companion, yours (eſpecially in Marriage for your ſelf or yours) and your choice of a
+<pb n="9" facs="tcp:45675:8"/>Magiſtrates and others in Authority (when it is in your power) will ſhew whether ye are reſolved to ſerve God in your Genera<g ref="char:EOLhyphen"/>tion or not; what ſay ye now ye Freemen of <hi>New-England?</hi> is the Lord your God or no? if he be, then as one man ye muſt ſay, <hi>Exod. 15.2. He is my God, I will pre<g ref="char:EOLhyphen"/>pare him an Habitation:</hi> I will endeavour ſuch a frame of things as he may delight to dwell amongſt us, <hi>He is my Fathers God and I will exalt him;</hi> he hath wonderfully owned and exalted you and your Fathers, therefore ye muſt own and exalt him; and believe it Brethren, if ye talk of God and his Covenant, and walk not in the main concerns of your publick or private ſtand<g ref="char:EOLhyphen"/>ing with a chief regard to him; ye go a<g ref="char:EOLhyphen"/>bout to mock him that will not be mocked.</p>
+            <p>
+               <hi>Reaſ.</hi> 2. Magiſtracy and Government is mercifully ordered and maintained by God, and therefore as it falls into the hands of men, ſhould be ordered according to him, what is of him, and through him ſhould alſo be to him: that there ſhould be Govern<g ref="char:EOLhyphen"/>ment among men, it is an order that God hath ſet, <hi>Rom. 13.1. The Powers that be, are ordained of God.</hi>
+            </p>
+            <p>Government is not on<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y by general pro<g ref="char:EOLhyphen"/>vidence ordered and governed by him (as
+<pb n="10" facs="tcp:45675:9"/>are all Wars, Peſtilence and Famine) but ordained, God gives out a command and a confinement (or bound) to it: All Na<g ref="char:EOLhyphen"/>tions by inſtinct of nature do deſire a po<g ref="char:EOLhyphen"/>wer and authority for Rule, and commiſ<g ref="char:EOLhyphen"/>ſion is given, as <hi>Gen. 7.</hi> God appointed a power awong men for revenge of Murder, and this when all Nations were contracted into one Family, but God did more expreſly enjoyn his own people to ſet up Magi<g ref="char:EOLhyphen"/>ſtrates, Deut. <hi>16.18. Iudges and Officers ſhalt thou make thee in all thy Gates which the Lord giveth thee;</hi> It is not arbitrary whether they will have Judges, <hi>Pharaoh</hi> calls Government' <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a ſacred thing, and it is a mercy, and ſo made over to men through Chriſt, <hi>Prov. 8.15. By me Kings reign,</hi> Mat. <hi>28.15. All power is given to me in Heaven and Earth,</hi> Chriſt diſpen<g ref="char:EOLhyphen"/>ſeth it for carrying on the welfare of men, therefore the enjoyment of Government according to him is matter of praiſe, <hi>Pſal. 122.4. Whether the Tribes go up to give thanks to the name of the Lord, for there are ſet Thrones of Iudgement:</hi> The ſetting up of Government is a mercy thankfully to be owned, as the want is a judgement and deſolation, and the portion of bloody <hi>Eſau, Iſa. 34.12. They ſhall call the Nobles thereof
+<pb n="11" facs="tcp:45675:9"/>to the Kingdome but none ſhall be there, and all her Princes ſhall be nothing,</hi> and this is ſorely lamented, <hi>Hab. 1.14. and makeſt men as the fiſhes of the Sea, as creeping things that have not ruler over them;</hi> now God be<g ref="char:EOLhyphen"/>ing the merciful founder of Magiſtracy, it is meet in the manage thereof we ſhould look to him, as <hi>Iſai. 22.11.</hi> when they uſed skill and diligence in fortifying of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> there was one neglect that threatens the fruſtrating of all, that is, not having the principal eye and regard to the Lord that founded Jeruſalem as the ſeat of the King<g ref="char:EOLhyphen"/>dome, and his moſt ſolemn worſhip: It may be as uſually is objected againſt this reaſon, from <hi>1 Pet. 2.13. Submit your ſelves to every Ordinance of man?</hi> Anſ It is for the Lords ſake, who hath ordered there ſhould be Government, and ſo it is of the Lord; but in this and that particular form, it is of man as to the Common-wealth, though in the Churches even the form we conceive is fixed by the Lord; Civil Government is alſo called Humane, becauſe its end is the good of man, in outwards nextly and the matter it is converſant about, is (properly and immediately) humane not divine; In divine the Magiſtrate hath not power ac<g ref="char:EOLhyphen"/>cording to his minde to put or appoint any
+<pb n="12" facs="tcp:45675:10"/>Worſhip upon God which <hi>never came into his minde,</hi> Jer. 9.5. <hi>Which I commanded not, nor ſpeak it, neither came it into my minde,</hi> and what came not into Gods minde to ap<g ref="char:EOLhyphen"/>point, may not come into the Magiſtrates minde to enjoyn. It is the liberty and ho<g ref="char:EOLhyphen"/>nour of a Magiſtrate to protect and pro<g ref="char:EOLhyphen"/>mote what Chriſt hath appointed in his houſe, and in this the Chriſtian Magiſtrate hath not more power, though more light to manage that power; the help of the Magi<g ref="char:EOLhyphen"/>ſtrate is not of abſolute neceſſity to the be<g ref="char:EOLhyphen"/>ing of Chriſts true Religion (for he did bring forth and maintain it when the edge of the Magiſtrate was ſharp againſt it for 300 years the purer age) but this ſupport is neceſſary for the falſe, <hi>Ier. 10.5.</hi> an Image which is created by man, cannot ſubſiſt without his providence, the Idol muſt needs be borne it cannot go, and <hi>Babylon,</hi> whether Eaſt or Weſt (the way of <hi>Arius, Maho<g ref="char:EOLhyphen"/>met</hi> or the <hi>Pope</hi>) muſt have a Beaſt to car<g ref="char:EOLhyphen"/>ry her, <hi>Rev. 17.7.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith <hi>Meade</hi> but that this is the abuſe of civil power will appear in the Doctrines third Reaſon.</p>
+            <p>
+               <hi>Reaſ. 3.</hi> Magiſtratical Power makes a man Gods near and ſpecial Servant and De<g ref="char:EOLhyphen"/>puty in the World, therefore it is fit that in
+<pb n="13" facs="tcp:45675:10"/>the giving and uſing this power, there ſhould be a reſpect had to God, <hi>Iob. 10.34, 35. I ſaid ye are Gods, if he called them Gods to whom the Word of God came;</hi> Gods ſay<g ref="char:EOLhyphen"/>ing and Commiſſion purteth them in his ſtead, and by his impreſſe upon the Magi<g ref="char:EOLhyphen"/>ſtracy, and by that onely one man is able to rule ſo great numbers; when ye chuſe a Ma<g ref="char:EOLhyphen"/>giſtrate or Deputy, ye put ſuch a man upon God, and therefore ſhould conſider what will pleaſe him, <hi>Rom. 13.4</hi> the Magiſtrate is called Gods <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> his Deacon (as we may ſay) his Miniſter, ſo <hi>2 Chron. 9 8. Bleſſed be the Lord</hi> (ſaith <hi>he<g ref="char:EOLhyphen"/>ba's</hi> Queen to <hi>Solomon) wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch delight<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in thee to ſet thee upon his Throne, to be K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng for the Lord God:</hi> It is the Lords Throne, and for the Lord, and ſo inferiour Magi<g ref="char:EOLhyphen"/>ſtrates, <hi>2 Chro. 19.6. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e judge for the Lord, Rev. 12.5. Conſtantin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> is ſaid to be caught up to Gods Throne, now God uſeth men in Gover<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment not out of neceſſity but boun<g ref="char:EOLhyphen"/>ty, for <hi>Ps;<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 89.18. He is the Shield of his people, yet he hath the ſhields of his people,</hi> P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al 47. ult. the Magiſtrate repreſents Chriſt the Judge of all the Ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, and we may not put upon him a man that manifeſtly bears the Image of the Devil, neither may any dare
+<pb n="14" facs="tcp:45675:11"/>in Gods Livery to do the Devils work; nay who of you dares to take in any to Gods ſervice, but to do Gods work, and not to ſerve your own particular turn.</p>
+            <p>
+               <hi>Application.</hi> Let the Authority of this Doctrine fall and fix upon your hearts this day, remembring <hi>Pſal. 81.2.</hi> that God <hi>ſtan<g ref="char:EOLhyphen"/>deth,</hi> which is a poſture of greater attention, and he attends in order to his judging of you, therefore have your eye upon God as his is upon you; <hi>Be in the fear of the Lord all this day,</hi> Prov. 23.17. So acknowledge God in giving and taking Magiſtracy, that he may approve your proceeding, and let every heart lift up a cry to the Lord almoſt in <hi>Moſes</hi> words, <hi>Numb. 27.16. Let the Lord the God of the ſpirits of all fleſh, ſet a man and men over the Congregation, which may go out before them, and which may go in before them, and which may lead them, and which may bring them in, that the Congrega<g ref="char:EOLhyphen"/>tion of the Lord be not as ſheep which have no Shepherd.</hi>
+            </p>
+            <p>
+               <hi>Motive.</hi> 1. It concerns as to be owned in the proceedings of this day, elſe the buſineſs of the day will not be for our ſafety, <hi>Ier. 5.10. Go ye up upon her Walls, and deſtroy and take away her battlements, for they are not the Lords.</hi> If our Magiſtrates ſet up for
+<pb n="15" facs="tcp:45675:11"/>our Protection, be not owned by the Lord, they will not be any protection; any ene<g ref="char:EOLhyphen"/>my, heathen or called chriſtian, hath a dor<g ref="char:EOLhyphen"/>mant Commiſſion to come upon you and deſtroy you, though not with utter deſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <p>
+               <hi>Motive</hi> 2. Magiſtraticall Power is of great weight and worth, eſpecially among Gods people; therefore with great conſide<g ref="char:EOLhyphen"/>ration to be made over and managed by them that have it. <hi>Pſal. 113.8. That he may ſet him with Princes, even with the Princes of his people.</hi> This very much heightens their honour; and ſo God tells <hi>David, 2</hi> Sam. <hi>7.8. I took thee from the ſheep coate, to be Ruler over my people, over Iſrael. Pericles,</hi> being often choſen <hi>Pretor</hi> of <hi>Athens,</hi> every year when he put on his <hi>Robe,</hi> would beſpeak himſelf; remember thou ruleſt over Free<g ref="char:EOLhyphen"/>men, thou ruleſt over <hi>Athenians,</hi> yet Chriſt beſpeaks you that rule here, have a care what you do, for ye rule over my Children, <hi>Ioh. 19 8. When Pilate heard that ſaying,</hi> viz. <hi>that Chriſt was the Son of God,</hi> he was the more afraid, he was the more awed, and they that are in Authority here had as much need as any where to hearken to that, <hi>Pſal. 2.10. Serve the Lord with fear, rejoyce with trembling;</hi> It is ſpoken to Magiſtrates, ye
+<pb n="16" facs="tcp:45675:12"/>may willingly and chearfully ſerve the Lord i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that capacity of doing good to his peo<g ref="char:EOLhyphen"/>ple, but tremble leſt ye miſcarry; if ye do them any wrong ye are ſure to hear of it, <hi>Pſal. 105.14, 15. He <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uffered no man to do them wrong, yea, he reproved Kings for their ſake, ſaying, touch not mine anointed, and do my Prophets no harm:</hi> If you touch his peo<g ref="char:EOLhyphen"/>ple harmfully, or put power into the hands of ſuch as will ſo touch them you touch the apple of Gods eye, <hi>Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch. 2.</hi> he will not bear that wrong to them that he will upon another people, no not although it be ſl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly and by way of fraud, and not by way of open violence, for that was the cauſe of <hi>Midian,</hi> againſt whom the Lord gives that charge, <hi>Numb. 31.3. Let them go a<g ref="char:EOLhyphen"/>gainſt the Midianites and avenge the Lord of Midian.</hi>
+            </p>
+            <p>
+               <hi>Motive</hi> 3. All your Adminiſtrations muſt come ere long under judgement, ye that are Freemen muſt ſhortly be free a<g ref="char:EOLhyphen"/>mong the dead, and that then your work and ſecret d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſign <hi>whether good or bad muſt come to judgement, Eccl. 12. ult.</hi> and ye that ſhall be choſen, <hi>Pſal. 82.6.7. Though you be all of you Children of the m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h,</hi> or <hi>Angels</hi> as <hi>Chalde</hi> renders it, <hi>yet ye must dye like A<g ref="char:EOLhyphen"/>dam. Socrates</hi> writes to <hi>Dyoniſius,</hi> thou
+<pb n="17" facs="tcp:45675:12"/>art yet clothed with a mortal skin, and if ye dye then follows the Judgement; act ye therefore ſo this day as ye may anſwer it boldly in that. It was the honour of <hi>Mar<g ref="char:EOLhyphen"/>cellus,</hi> that he went from the Tribunal to the Bar; and it is the Law of neceſſity upon you all, if not here yet elſe where, to give an account of your Adminiſtration; now if any of you upon theſe Motives are willing in your giving or taking Magiſtra<g ref="char:EOLhyphen"/>tical power, to do it according to Gods will, offer you ſome means ſo to do.</p>
+            <p>
+               <hi>Means 1.</hi> Minde the reallizing of your-profeſſion of God, and take heed of Apo<g ref="char:EOLhyphen"/>ſtacy; in the two verſes before the Text, we have <hi>Iſraels</hi> boaſting and breaking of their Covenant with God, <hi>Iſrael ſhall cry unto me, my God we know thee,</hi> but this is no better then to <hi>compaſs God with lyes, Hoſ. 11. ult. For Iſrael hath caſt off the thing that is good, the Enemy ſhall purſue him;</hi> If we do thus lye to God in <hi>N. E.</hi> we go a<g ref="char:EOLhyphen"/>gainſt the intereſt of <hi>N. E.</hi> as hath been faithfully declaredon ſuch a day as this:<note place="margin">Mr. <hi>Stoughton</hi>
+               </note> If you caſt off good, you cannot ſo caſt off evil; evil will fol<g ref="char:EOLhyphen"/>low you if you follow not that which is good, when your Religion is but a pretence, a lye, it will never laſt, a lye is never long-lived
+<pb n="18" facs="tcp:45675:13"/>howſoever you ſawn upon God or his people, ye can never really love either by outward fleſhly. circumciſion alone, when ye are only (as the ſame Meſſenger ſaid) cuſtome born, <hi>Deut. 30.6.</hi> there's need of the Lords own circumcizing your hearts and the hearts of your ſeed, as he is really your God in Covenant, <hi>that you may love him and his intereſt with all your heart:</hi> If ye have this heart circumciſion, heart-ba<g ref="char:EOLhyphen"/>ptiſme, then you will cleave to him and his people, whether ye be chuſing or choſen into power, otherwiſe not, <hi>Prov. 24. ult. the upright is an abomination unto the wicked</hi> His natural Fore skin, the enmity of his car<g ref="char:EOLhyphen"/>nal minde will upon any ripening tempta<g ref="char:EOLhyphen"/>tion break out; he that hath but the form, not the power of godlineſs, will not like to have godlineſs in power, they that are not indeed Freemen (though ſo called) are ſervants, <hi>2 Pet. 2.19.</hi> to corruption, and muſt ſerve ſuch purpoſes which was owned by ſome <hi>Philoſophers,</hi>
+               <note place="margin">Cic. 5. Paradox</note> who laid down this Paradox (ſo that many would think it) all wiſe men are Freemen, and all fools are Servants, ſuch then having a liberty to chuſe, will in the uſe of it ſerve corrupt men and not the holy God, neither will unſound Profeſſors ſerve the Lord in
+<pb n="19" facs="tcp:45675:13"/>the manner of that Authority they get, and therefore <hi>Job 17.8. The innocent ſhall ſtir up himſelf againſt the hypocrite,</hi> and God in<g ref="char:EOLhyphen"/>tending mercy to a people will help ſuch oppoſition, <hi>Iob 34.30. That the Hypocrite reign not, leſt the people be enſnared;</hi> ſuch will lay ſecret and ſubtile ſnares for the peo<g ref="char:EOLhyphen"/>ple whom God in pitty will deliver there<g ref="char:EOLhyphen"/>from.</p>
+            <p>As for you in <hi>N. E.</hi> to backſlide and to faſhion your ſelves to the flaunting mode of <hi>England</hi> in worſhip or walking, you under<g ref="char:EOLhyphen"/>take a vain thing, for you can but limp after them, and you will forget (as was told you the laſt year by that Reve<g ref="char:EOLhyphen"/>rend Elder) your errand of Planting this Wilderneſs,<note place="margin">Mr <hi>Danforth.</hi>
+               </note> and if you have a minde to turn your Churches into Pari<g ref="char:EOLhyphen"/>ſhes, and your Miniſters into Prieſts and Prelates, I cannot think the Lord will ever endure it, as <hi>Ezek. 20.32. That which cometh into your minde ſhall not be at all, that ye ſay, we will be as the Families of the Coun<g ref="char:EOLhyphen"/>tries:</hi> The Lord that hath ſo marvelouſly ſeparated and diſtinguiſhed this people for himſelf, will not ſo loſe his propriety here, and know ye that your backſliding will not only be vanity but vexation, alſo for this ye will loſe the good ye have had, <hi>Hoſ. 4.7.
+<pb n="20" facs="tcp:45675:14"/>As they were increaſed ſo they ſinned againſt me, therefore will I change their glory into ſhame.</hi> If ye grow more provoking as more populous; that which hath been the glory of <hi>N. E.</hi> (Magiſtracy and Miniſtry) will be its ſhame: If ye rebel and vex his holy Spirit, acting in them that anointing will be gone, <hi>Iſai. 63.10, 11. Where is he that brought them up out of the Sea with the ſhepherd of his flock? where is he that put his holy ſpirit within them?</hi> Ye will have Magiſtrates and Miniſters of a meaner alloy, yea happily, for your Hypocriſie and Apoſtacy, being falſe to Chriſt as was <hi>Iudas,</hi> you will have that plague, <hi>Pſal. 109.6. A wicked man ſet over you, and an adverſary ſhall ſtand at your right hand:</hi> Evil will certainly befal you, as <hi>Ioſh. 6.26. Ioſhua</hi> laid the builders of ac<g ref="char:EOLhyphen"/>curſed deſtroyed <hi>Iericho</hi> under a curſe, ſo will our Jeſus bring a Curſe upon thoſe that ſhall go about to build <hi>Iericho</hi> the City of the Moon (ſo it ſignifies) the Kingdome of the Beaſt, which being an earthly, worldly Re<g ref="char:EOLhyphen"/>ligion: <hi>Lunenburge</hi> is reckoned by the Moon, <hi>Rev. 11. But bleſſed are they that re<g ref="char:EOLhyphen"/>ſiſt and cruſh the leaſt beginnings and breed of Babylon,</hi> (be they will-worſhip, perſecution or confuſion:) Bleſſed I ſay are thoſe that will daſh their brats againſt the Rock,
+<pb n="21" facs="tcp:45675:14"/>even Chriſt the ſure and tried Stone.</p>
+            <p>Yea, in caſe ye backſlide from the God of your Fathers, ye will be as it were out-lawed, and expo ed as a free ſpoil to every enemy, <hi>Ier. 50.7. All that found them have devoured them, and their adverſaries ſaid, we offend not becauſe they have ſinned againſt the Lord the habitation of juſtice, even the Lord the hope of their Fathers;</hi> and from ſuch will ye be moſt likely to have your ſcourge from whom you have your apoſtacy; as <hi>Iſrael</hi> returning to the Idols of <hi>Meſopotamia,</hi> from whence their Anceſtors <hi>Abraham</hi> and <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> had ſeparated, were firſt put into the hand of the King of <hi>Meſopotamia, Iudg. 3.8.</hi> and think not what I ſay is impertinent to the Doctrine or the day, for in the civil Government.</p>
+            <p>The firſt worthy Planters they profeſſed to erect and adminiſter according to God, and if you that ſucceed will do according to your luſt it will go ill with you: the gallant <hi>Gideon</hi> ſaith, <hi>Iud. 8.20. I will not rule over you neither ſhall my Son rule over you, but the Lord ſhall rule over you:</hi> this did that wor<g ref="char:EOLhyphen"/>thy Father promiſe, but the Baſtard Son will needs break to the ruine of himſelf and his partakers: If a degenerate and ſpurious Generation will not ſtand by the intend<g ref="char:EOLhyphen"/>ments
+<pb n="22" facs="tcp:45675:15"/>and engagements of their faithful An<g ref="char:EOLhyphen"/>ceſtors, but in their giving and exerciſing rule neglect the Lord, he will ruine them and their helpers.</p>
+            <p>
+               <hi>Means 2.</hi> Minde faith fully and diligent<g ref="char:EOLhyphen"/>ly your liberties, that ye may be free to act for and according to God in the conſtitution and manage of your Magiſtracy: quit once your liberties and ye mu t have ſuch a Magi<g ref="char:EOLhyphen"/>ſtracy &amp; manage of it as will pleaſe not God nor your ſelves, but other men will be your maſters, for ſervants yea, ſlaves muſt you be to ſome body when ye have let go your li<g ref="char:EOLhyphen"/>berties, now to fix you in maintaining your liberties, I crave liberty to propound ſome Motives.</p>
+            <p>
+               <hi>Motive 1.</hi> It is a truſt and favour of God that ye have ſuch liberties, <hi>Pſa. 118.14. This is the day that the Lord hath made or exalted:</hi> This your day of free Election is preforable before all your own dayes if we marre it not &amp; (for ought we know) there is no ſuch day in other Colonies abroad, and we may ſay as follows, <hi>we will rejoyce and be glad in it,</hi> &amp; the more we are engaged for ſuch a day, be<g ref="char:EOLhyphen"/>cauſe we have not deſerved it, but as <hi>Saul,</hi> after his wickedneſs to <hi>David,</hi> and <hi>Davids</hi> kindneſs to him in ſpring him when he had advantage, <hi>1 San. 24.19.</hi> This day thou haſt
+<pb n="23" facs="tcp:45675:15"/>made me as the Hebrew ſaith, <hi>your liberty then being the gift of ſuch a band, even of the Lord, let no hand be againſt it, but let every hand hold it,</hi> Gal. 5.1. <hi>Stand faſt therefore in the liberty wherewith Chriſt hath made us free, and be not intangled again with the yoke of bondage.</hi> The Lord Jeſus hath given you ſuch a ſtanding, keep your ſtanding, whoſo<g ref="char:EOLhyphen"/>ever ſhall puſh at you, let none doubt that ever ſhall puſh at you, let none doubt that even our outward liberties in ſpirituals and temporals are from our Redeemer; precious <hi>Cotton</hi> ſo, <hi>All Church priviledges and Com<g ref="char:EOLhyphen"/>mon-wealth priviledges hath the Lord pur<g ref="char:EOLhyphen"/>chaſed by his blood:</hi> So a faithful Brother a<g ref="char:EOLhyphen"/>mong us, on ſuch a day as this, <hi>our liberties and priviledges are ran<g ref="char:EOLhyphen"/>ſomed mercies:</hi>
+               <note place="margin">Mr. <hi>St.</hi>
+               </note> Chriſt hath given a price, and by his power, and by his ſpirit acting in the prayers and pains of his Servants, hath gotten and kept them.</p>
+            <p>This liberty of chuſing their own Magi<g ref="char:EOLhyphen"/>ſtrates the Lord gave to his own people, <hi>Deut. 1.13.15. Give ye</hi> (ſo the Hebrew, and our Margent) <hi>wiſe men, and underſtanding, &amp; known among your Tribes and I will make them Rulers over you:</hi> and ſuch as ye people gave, <hi>Moſes</hi> took, yea, this people of <hi>Iſrael</hi> were ſtill free to chuſe when ſcarce any were
+<pb n="24" facs="tcp:45675:16"/>free to be choſen, <hi>Iſai. 3.6. A man ſhall take hold of his Brother, and of the houſe of his Father, ſaying, thou haſt clothing be thou a ruler:</hi> And all faithful ones are with <hi>A<g ref="char:EOLhyphen"/>braham, the proper heirs of the World,</hi> Rom. 4 13. and that without wrong to juſt pro<g ref="char:EOLhyphen"/>priety, and it ſeems all ſhall (as we) have the yoke broken becauſe of the anointing, <hi>Iſai. 10.27. Now ſhall not we hold the Lands and Liberties which our God hath given us,</hi> as <hi>Iudg. 11.24.</hi> that valliant <hi>Iephthe</hi> told the <hi>Arronite,</hi> and indeed for your juſt bounds it will be great weakneſs to ſhorten them, for a near Enemy is the worſt, as <hi>Sparta</hi> found by the <hi>Athe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians,</hi> ſeizing on <hi>Pyſus</hi> a near and rejected Iſland.</p>
+            <p>
+               <hi>Motive</hi> 2. Your truſt by and for men be<g ref="char:EOLhyphen"/>ſpeaks your care and vigilance about your Liberties. This Honourable Aſſembly con<g ref="char:EOLhyphen"/>ſiſts of the Truſtees of all the Freemen of the <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>nd: If Freemen indeed, they chuſe that they may ſo continue; we ſhould have cauſe to complain of any that is choſen if he ſhould uſe this truſt our Liberties, as the Eagle in the <hi>Greek Epigram</hi> lamen<g ref="char:EOLhyphen"/>ted <hi>that it was ſlain with an Arrow winged with its own Feathers:</hi> Ye are alſo truſted for men, for many, all Inhabitants have their Liberties, Women, Children, Servants, yea,
+<pb n="25" facs="tcp:45675:16"/>and Strangers too, let me beſeech this Ho<g ref="char:EOLhyphen"/>nourable Aſſembly, in the name of all the Freemen (who am alſo a Freeman) not to part with any of our Liberties by force or fraud, <hi>theſe are our Crowns and Iewels which we commit to your care and charge.</hi>
+            </p>
+            <p>
+               <hi>Motive.</hi> 3. Your expreſſing agreement binds you; no man can chuſe or be choſen, but he hath taken the Oath for our Liberties, take heed you be not charged as thoſe Hypo<g ref="char:EOLhyphen"/>critical Profeſſors, <hi>Iſai. 48.1.</hi> nominal Chri<g ref="char:EOLhyphen"/>ſtians, <hi>Swearing by the Lord, making men<g ref="char:EOLhyphen"/>tion of the God of Iſrael, but not in truth nor in righteouſneſs, you have every one ſweared by the Great Name of the Everliving God, truely to endeavour to maintain and preſerve the liberties and priviledge of this Common-wealth and Government:</hi> and this is more then is ſworn for the Laws, to which only a ſubjection is undertaken; now if ye truly endeavour to maintain all the liberties as ye promiſe by Oath, then ye ſhould be willing to know and make them known: there ſhould be as I conceive, a diſtinct know<g ref="char:EOLhyphen"/>ledge of them as there is a diſtinct obliga<g ref="char:EOLhyphen"/>tion to them; I have ſeen the Liberties writ<g ref="char:EOLhyphen"/>ten by the then Governour, and ſubſcribed by him, and others, and there I ſaw the pre<g ref="char:EOLhyphen"/>face and the three laſt Liberties to be too ſo<g ref="char:EOLhyphen"/>lemn
+<pb n="26" facs="tcp:45675:17"/>to be concealed, one is for the perpe<g ref="char:EOLhyphen"/>tual obſervation of the liberties, another is to give them the force of Laws, and then giving of relief to any that are abridged in them. Methinks men ſhould know what they are ſworn, for <hi>Ignorantia juris,</hi> Igno<g ref="char:EOLhyphen"/>rance of the Law doth not excuſe a breach of it, wherefore watch and be diligent in keeping your liberties, that they may not be inſenſibly loſt, <hi>Prov.</hi> 12.24. <hi>The hand of the diligent ſhall bear rule, but the ſlothful ſhall be under tribute.</hi> If you be dull and ſleepy, and keep not your hold when others are active and pull hard, you muſt needs let go, unleſs I miſtake, the 60 liberty and the 74. are infringed by inadvertency, I would hope it were no worſe; but if ye ſhall break down the hedge of your Churches and Common<g ref="char:EOLhyphen"/>wealth, you will lay the field open to ſuch as watch to make ſpoile of you: are there any that back-ſlide or warpe among you, they will co-operate with workers of iniquity, <hi>Pſal.</hi> 125.5. and ye will want no ſuch Inſtru<g ref="char:EOLhyphen"/>ments, if ye admit of a carnal party into the priviledges due here to viſible Saints, they will be likely to eat out the heart of li<g ref="char:EOLhyphen"/>berty and religion; as in a Syllogiſme, the concluſion follows the worſer part, and god<g ref="char:EOLhyphen"/>ly men have ſomething in them that inclines
+<pb n="27" facs="tcp:45675:17"/>them to that which is not good, and if ſuch comply with a carnal intereſt, <hi>Prov. 25.26. A righteous man falling down before the wicked, is as a troubled Fountain and cor<g ref="char:EOLhyphen"/>rupt ſpring, earthly, muddy, and not fit to be taken in as before;</hi> be ye therefore diligent and couragious, and not like <hi>Iſſachar, Gen. 49.14. A ſtrong Aſſe couching down be<g ref="char:EOLhyphen"/>twixt two burthens:</hi> you civil and your re<g ref="char:EOLhyphen"/>ligious liberties are ſo coupled here, that if one be loſt the other cannot be kept; if be<g ref="char:EOLhyphen"/>ing free ye will put your ſelves into bands, ye will be as the ſlothful under tribute, <hi>you will be ſhorn, 2 King. 10.12. the ſhearing houſe</hi> is as the <hi>Hebrew</hi> there, and your <hi>Margent, the houſe of ſhepheras binding,</hi> when you are ſo ſheepiſh to be bound, your fleece will be ſhorn, and may be your skin flayed and fleſh will be devoured, and if any ſay, <hi>its good ſleeping in a whole skin,</hi> I would tell ſuch <hi>that ſleeping is not the way to keep the skin whole;</hi> obſerve thoſe Neuters, <hi>Iudg. 8.6, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> who refuſed to owe any relief to their Bre<g ref="char:EOLhyphen"/>thren in a needful time, but (till they ſaw which would be the ſtronger ſide) would not meddle ſo they might ſleep in a whole skin; thoſe wary Princes of <hi>Succoth</hi> could not compaſs it, but the contrary was writ<g ref="char:EOLhyphen"/>ten on their skin by the thorns of the wilder<g ref="char:EOLhyphen"/>neſs
+<pb n="28" facs="tcp:45675:18"/>and if this our wilderneſs bread any ſuch luke warm Polititians in a needful time, it is to be hoped that it will alſo bring forth thorns enough to teach them, you have beautiful and precious liberties beyond o<g ref="char:EOLhyphen"/>ther Colonies, but <hi>Prov. 11.20. as a jewel of gold in a Swines ſnout, ſo is a fair woman without diſcretion,</hi> or that departs from diſ<g ref="char:EOLhyphen"/>cretion, or leaſt no Judgement to put it to clean and honourable but dirty uſes, if you ſo root in your preſent and particular profits and intereſts, as to neglect your golden li<g ref="char:EOLhyphen"/>berties, what will <hi>England?</hi> what will all the world ſay of you, that you are not new Engliſh, but no Engliſh men; therefore give me leave to beſeech and intreat the aged to follow the aged <hi>Caleb</hi> that hearty man as he followed the Lord and fulfilled after him, <hi>Iuſh. 14.8, 11, 13.</hi> Be ye now as hearty for your true and juſt liberties as ye were 40. year ſince, and <hi>ſo will your Ioſhua, your Jeſus bleſs you, and ye ſhall be able to prevail againſt the talleſt oppoſers, even the Anakims.</hi>
+            </p>
+            <p>Let me alſo beſpeak the young men a<g ref="char:EOLhyphen"/>mongſt you, that you would not be prodi<g ref="char:EOLhyphen"/>gal of thoſe liberties you never knew the getting of, uſe you not the fork ſince ye ne<g ref="char:EOLhyphen"/>ver knew the rake.</p>
+            <p>
+               <hi>Obj. 1. Doth any ſay that the Patent or
+<pb n="29" facs="tcp:45675:18"/>Charter-right is queſtioned by ſome?</hi>
+            </p>
+            <p>I <hi>An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wer,</hi> Such men do not appear ſo good friends either to the Crown or Country, for the queſtion cutteth off the true and proper ligament between them, neither may it be reaſonably ſaid, that upon, or o<g ref="char:EOLhyphen"/>ther circumſtantial failer the Pattent ceaſeth; for on the great conſideration, for the Graunt is paid and cannot be re-landed; for the lives and eſtates of many worthy men have been laid down here to plant and ſubdue this Land, and ſubdued it is.</p>
+            <p>
+               <hi>Obj. 2. If it be ſaid, there may be juſt reaſon to quit ſome of the Liberties?</hi>
+            </p>
+            <p>
+               <hi>I Anſwer,</hi> I grant ſo much on condition, ye will alſo grant that the ſame deliberation ſhould be uſed in the getting any of them, as there was in conſtituting of them: The liberties were probationers for three years, and in all the General Courts for that time, they were paſſed by all the Freemen, and it ſeems equal that all the Freemen ſhould have as ſufficient time to conſider of the change and abrogation of them, and ſure it is not fit that any one General Court ſhould have ſuch an unlimited Arbitrary, power that nothing ſhould be fixed and unmovea<g ref="char:EOLhyphen"/>ble, no property, uſe and eſtate ſhould be ſecured, and I think you will grant, that in
+<pb n="30" facs="tcp:45675:19"/>the year 1641. when thoſe liberties were in ſuch degree enacted and ſettled; there were men civil and eccleſiaſtical (who managed that matter) of ſuch weight and worth as none of us now filling their place can, and if wiſe and humble will pretend to weigh them down, though experience may adde to former knowledge in particular caſes.</p>
+            <p>
+               <hi>Obj. 3. But if that many give up we can<g ref="char:EOLhyphen"/>not help it?</hi>
+            </p>
+            <p>
+               <hi>I Anſwer,</hi> Yes, for by your 75. liberty, you have power to enter your diſſent and proteſtation, which will ſave your own ſouls from the guilt, and ye have encouragement to help your ſelves and the whole, becauſe as yet the promiſe is made good to you <hi>Ier. 30.2 Your Nobles are of your ſelves, and your Go<g ref="char:EOLhyphen"/>vernour proceeds from the midſt of you,</hi> ſo that none can be in power to hurt or hazard you, but it muſt be by your ſelves, and this being your glory ye may expect that the Lord will create a cloud when no viſible help doth appear, <hi>Iſai. 4, 5.</hi> upon all the glory ſhall be a defence, and the ſame preſence of God will be offenſive to all unrighteous en<g ref="char:EOLhyphen"/>croachers or diſturbers, <hi>Eccl. 10.8, 9. He that diggeth a pit ſhall fall into it, and whoſo breaketh an bedge a Serpent ſhall bite him, whoſo remoreth ſtones ſhall be hurt therewith,
+<pb n="31" facs="tcp:45675:19"/>and he that cleaveth wood ſhall be endangered thereby:</hi> none that ſhall be removing your peculiar and diſtinguiſhing privileges and ancient bounds, and for that end will be ma<g ref="char:EOLhyphen"/>king parties ſhall proſper; nay, take that encouraging word more, <hi>Ezra 6.11. Who<g ref="char:EOLhyphen"/>ſoever ſhall alter this word</hi> (of priviledges and proviſion for the Temple) <hi>let the Tim<g ref="char:EOLhyphen"/>ber be pulled down from his houſe, and being ſet up, let him be deſtroyed thereon, and let his houſe be made a Dunghil, and the God that hath cauſed his name to dwell there deſtroy all Kings and People that ſhall put to their hand to alter and deſtroy this Houſe of God.</hi>
+            </p>
+            <p>
+               <hi>Means 3.</hi> Of your conſtituting and ad<g ref="char:EOLhyphen"/>miniſtring Magiſtracy according to God, is to give good heed to your Election, that it may proceed with clearneſs, ſo that there may be no fraud nor doubt in giving your votes againſt which you way may ſeem to ſome not ſo ſure as elſewhere; and ſurely what is indirectly gotten, is of and for the evil one; ye ſhould come to this ſolemn a<g ref="char:EOLhyphen"/>ction with a care, and not as Children to ſee the faſhion and leave things at a venture, but as there is ſome care to be uſed for the manner of your Election, ſo much more for the Object whom you chuſe
+<pb n="32" facs="tcp:45675:20"/>or refuſe, <hi>Exod.</hi> 18. <hi>Thou ſhalt provide, Chaſub</hi> is to look about, to be circumſpect, ye muſt weigh and conſider, <hi>Deut.</hi> 1.13. <hi>ye muſt pitch upon known men,</hi> excuſe not, ſaying, thou knoweſt not whether men are fit or un<g ref="char:EOLhyphen"/>fit, <hi>Prov.</hi> 24.12. <hi>If thou ſayeſt, behold we knew it not; doth not he that pondereth the heart conſider it, and he that keepeth thy ſoul, doth not he know it, and ſhall not he render to every man according to his works?</hi> The Lord knoweth what thou thinkeſt or knoweſt, and his Deputy Conſcience knoweth; ſee therefore with thine own eye, implicit faith is indeed more eaſie but leſs ſafe, you do in your Conſcience and experience make ſome judgement of men, whether friends to ci<g ref="char:EOLhyphen"/>vil or religious liberties, to juſtice piety and virtue, whether Enemies to Vice, Oppreſ<g ref="char:EOLhyphen"/>ſion, Extortion, and biting Uſury; and thus you do know whom to chuſe, whom to re<g ref="char:EOLhyphen"/>fuſe, whom you chuſe you juſtifie as a man qualified according to Gods counſel, <hi>Prov.</hi> 24.24. <hi>He that ſaith unto the wicked, thou art righteous, him ſhall the people curſe, and the Nations ſhall abhor;</hi> take heed there<g ref="char:EOLhyphen"/>fore to your ſelves this day or any day of Election, leaſt ye bare falſe witneſs for or a<g ref="char:EOLhyphen"/>gainſt any whom ye chuſe or refuſe, give good heed to your choice that you may not miſcarry in it.</p>
+            <pb n="33" facs="tcp:45675:20"/>
+            <p>
+               <hi>Arg.</hi> 1. Becauſe your choice will ſhew what reſpect you have to Chriſt; It is a high charge you have from the Lord, <hi>Iſai.</hi> 65.12. <hi>They choſe the things wherein I de<g ref="char:EOLhyphen"/>lighted not,</hi> your choice ſhews who is your Maſter, and whom you would pleaſe, this ſhews what is deepeſt in your ſoul; holy <hi>Bolton</hi> in his diſcourſe of happineſs, <hi>pag.</hi> 131 ſhews, <hi>that the Hypocrite hath quite other ends in his choice,</hi> (even himſelf) <hi>but a ſin<g ref="char:EOLhyphen"/>cere Chriſtians thoughts run and are exerci<g ref="char:EOLhyphen"/>ſed about his faithfulneſs; If</hi> ſaith he, <hi>by my default, a falſe man be choſen, I ſhall be guilty before the high Judge of all, the miſchiefs that follow thot unhappy choice:</hi> Nothing can un<g ref="char:EOLhyphen"/>do this Country but unwarineſs and un<g ref="char:EOLhyphen"/>faithfulneſs but the miſ-making or miſ-act<g ref="char:EOLhyphen"/>ing of Freemen; choice of men to power and truſt gives the true picture or character of them that chuſe; if Idols are ſet up in power and truſt inſtead of men, really diſ<g ref="char:EOLhyphen"/>charging their truſt, <hi>Pſal.</hi> 115.8. <hi>they that make them are like unto them.</hi>
+            </p>
+            <p>
+               <hi>Arg.</hi> 2. If you miſs in your choice ye provide not well for your ſelves or neigh<g ref="char:EOLhyphen"/>bours whom ye chuſe, Magiſtrates or De<g ref="char:EOLhyphen"/>puties you truſt with your lives, liberties and eſtates; <hi>Plato</hi> ſaith, <hi>good Magiſtra es are better then good Laws:</hi> If on by re<g ref="char:EOLhyphen"/>ſpects
+<pb n="34" facs="tcp:45675:21"/>you ſet up ſuch as will be ſcourges to your ſelves or Brethren, you deſerve to be whipt, <hi>Iudg.</hi> 9. the <hi>Shechamites</hi> for ſelfiſh reſpects choſe a Bramble <hi>(Abimelech)</hi> and by him are they ſcratched, and even ruined.</p>
+            <p>
+               <hi>Arg.</hi> 3. W<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> you miſs in choice, you do not well for the choſen nor the place, <hi>Ec.</hi> 8 9. <hi>There is a time when one man ruleth over others to his hurt,</hi> for ſo he acteth more ſin and gathers more wrath, <hi>Pro.</hi> 26.18. <hi>As he that bindeth a ſtone in a ſtring, ſo is he that giveth honour to a fool,</hi> ſuch a man is not in his proper place, (as that ſtone, the ſtones proper place is the ground) neither can he well continue in it, and however it is better, where it is ſafe that men ſhould not alway continue in it, but there ſhould be a change of ſome where it is ſafe, as it is ſaid, <hi>Eccl.</hi> 3.18. By Magiſtracy and power <hi>God doth manifeſt men;</hi> if after tryal of men you come free, according to the tryal to chuſe or refuſe, and ſo make ſome change, you will make men more modeſt &amp; mindful in their place; howſoever by ſome ſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> change, you will try other men, and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>p poſſeſſion of your liberty to chuſe, and none may take their place for an Inheritance to uſe it as they liſt.</p>
+            <p>
+               <hi>Means</hi> 4. Of acting according to God
+<pb n="35" facs="tcp:45675:21"/>in the making and manage of Magiſtracy, is to attend to Gods particular Rules in the matter, they are in <hi>Exod.</hi> 18.21. <hi>Thou ſhalt provide out of all the people able men, ſuch as fear God, men of truth, ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing covetouſneſs,</hi> here are Rules that make out the true ma<g ref="char:EOLhyphen"/>nage of Magiſtracy, and ſo give aim to the chuſers, to provide thoſe that may ſo ma<g ref="char:EOLhyphen"/>nage their place.</p>
+            <p n="1">1. Able men, <hi>Chaſil</hi> ſpeaks, ability of e<g ref="char:EOLhyphen"/>ſtate: <hi>Iſai.</hi> 3.7. <hi>In my houſe is neither bread nor clothing, make me not a Ruler over the People;</hi> he ſhould of his own have neceſſa<g ref="char:EOLhyphen"/>ry ſubſiſtance.</p>
+            <p n="2">2. Ability of Wiſdome, <hi>Pſal.</hi> 2.10. <hi>Be wiſe O ye Kings, be inſtructed O ye Iudges of the Earth:</hi> they ſhould themſelves be wiſe, or at leaſt guided by them that are ſo, the want of which is noted as a cauſe of all publick diſorders <hi>Pſal.</hi> 8.2, 5. <hi>They know not them<g ref="char:EOLhyphen"/>ſelves, neither will they underſtand</hi> from o<g ref="char:EOLhyphen"/>thers, <hi>they walk on in darkneſs, the founda<g ref="char:EOLhyphen"/>tions of the Earth are out of courſe.</hi>
+            </p>
+            <p n="3">3. Ability of ſpirit or courage, elſe they will not be a terrour to evil-works, but <hi>bear the ſword in vain,</hi> Rom. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.4. and this Ability is eſpecially to be min<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> when Drunken<g ref="char:EOLhyphen"/>neſs, Gaming, Unright<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>neſs &amp; Unclean<g ref="char:EOLhyphen"/>neſs grow bold; the Rule<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad need be furni<g ref="char:EOLhyphen"/>ſhed <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="36" facs="tcp:45675:22"/>with boldneſs to encounter and defeat them, and I would here in particular caſt in a word againſt the firſt, <hi>Exo.</hi> 21.33. what pits you open or dig with your licence, ye had need to cover them to keep the tipling beaſt from falling therein, at leaſt the tiplers of your own Towns.</p>
+            <p n="2">2. <hi>God-fearing men;</hi> thoſe that want the fear of God will not regard men juſtly and conſcientiouſly, <hi>Luk.</hi> 18.2. <hi>The Judge that feared not God, neither regarded he men.</hi> This is <hi>N. Englands Crown</hi> that you have or may have in the Magiſtracy, ſuch as fear God and hold faſt, and uſe <hi>what you have that no man take your Crown, Rev.</hi> 3.11.</p>
+            <p n="3">3. <hi>Men of Truth,</hi> ſincere faithful men: (1) Encouraging the good. (2) Being juſt men. (3) And of publick ſpirits.</p>
+            <p n="1">1. Encouraging and ſuccouring them that are favoured of God, and ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy con<g ref="char:EOLhyphen"/>formity to him, this muſt be the aim of Ru<g ref="char:EOLhyphen"/>lers, who <hi>Pet.</hi> 1.2, 14. <hi>are ſent forth for the praiſe of them that do well,</hi> and this will be their advantage, <hi>Zach.</hi> 12.5. <hi>The Gover<g ref="char:EOLhyphen"/>nours of Iudah ſhall ſay in their heart, the In<g ref="char:EOLhyphen"/>habitants of Ieruſalem ſhall be my ſtrength in the Lord of Hoſ<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> their God;</hi> thoſe that have God to frie<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are ſureſt friends to Ma<g ref="char:EOLhyphen"/>giſtracy, theref<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Magiſtracy ſhould be
+<pb n="37" facs="tcp:45675:22"/>friendly to ſuch, and conſider that God puts out his Children to them to nurſe, <hi>Numb.</hi> 11.12. <hi>as a nurſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g Father bears the ſuck<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng childe:</hi> It is true, the Nurſe may not ſuf<g ref="char:EOLhyphen"/>fer the childe to feed on poyſon, and it is as true, that the Nurſe muſt not ſtarve and pinch the childe, nor be impatient toward it in a froward fit; ſome are ſevere to conſci<g ref="char:EOLhyphen"/>entious people (being ſuppoſed pious, peaceable and uſeful) if they conform not to their apprehenſions, and theſe eagerly drive on to a uniformity, and urge that ſome errors have dangerous and heretical conſequences; for ſuch as among us do in Conſcience preſſe this, I dare not judge them in their perſwaſion, but would crave leave to remember what <hi>Chamier</hi> ſaith, in Anſwer to the Papiſts charging Proteſtants with grievous Hereſies drawn from their o<g ref="char:EOLhyphen"/>pinion, <hi>Nemo fit Hereticus per conſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quen<g ref="char:EOLhyphen"/>tiam,</hi> and as for the uniformity ſo cruelly urged by Papiſts and Prelates, I would hope that only convincing light for the means and compaſſionate love for the manner will be taken up, and till this courſe prevail, I wiſh forbearance may be exerciſed to all ſober people, ſo it be not againſt piety or peace; and if we here in the time of our peace and eaſe, uſe violence to pious people
+<pb n="38" facs="tcp:45675:23"/>here with us, we may ere we are aware, <hi>help for ward</hi> the affliction of thoſe in other parts, <hi>Zach.</hi> 1.15. <hi>which is the way of the Heathen,</hi> very diſpleaſing to God.</p>
+            <p n="2">2. Being juſt men is a ſecond part of the Rulers truth, he ſhould be one that will ſeek and haſten juſtice: ſeek juſtice, <hi>Iob 29.16. The cauſe which I knew not I ſearched out,</hi> this requires a diligent and wakeful atten<g ref="char:EOLhyphen"/>dance: It is abſurd if at any time true, that they which judge in a cauſe ſhould ſleep at the hearing; he that in ſuch a caſe is caſt, may well (as he) appeal from ſleeping to waking <hi>Phillip;</hi> more vigilance is required in a cauſe which may ſometime be covered with many blind<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and the ſtrong current of a party, in which eaſe juſt men will not therefore bear down any in his cauſe, <hi>Iob 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.21. If I have lift up my hand againſt the fatherleſs, when I ſaw my help in the Gate:</hi> he ſhould haſten juſtice, it is the honour of Chriſt in his Kingdome, <hi>Iſai. 16.5. He ſhall ſit upon bis Throne in truth, judging and ſeek<g ref="char:EOLhyphen"/>ing Iudgement, and haſting righteouſneſs.</hi>
+            </p>
+            <p>Your ſecond liberty is, that all have juſtice without partiality or delay, and they go well together, for warping in a cauſe makes de<g ref="char:EOLhyphen"/>lay, for a right li<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is the ſhorteſt; it is a great ſin in the Magiſtrate and wrath on the
+<pb n="39" facs="tcp:45675:23"/>people, when <hi>Iſai.</hi> 59.14. <hi>Iudgement is tur<g ref="char:EOLhyphen"/>ned away backward, and Iuſtice ſtandeth afar off, for truth is fallen in the ſtreet</hi> (when upon motion) <hi>and equity cannot enter.</hi>
+            </p>
+            <p>But when the current of Juſtice in the hand and heart of juſt men ſhall run too ſtrong for all oppoſition, it is more pleaſing to God then the beſt melody of inſtituted Worſhip, <hi>Amos 5.23, 24. Take thou a<g ref="char:EOLhyphen"/>way from me the noiſe of thy Songs, for I will not hear the melody of thy Viols, but let Iudgement roll down as waters, and Righte<g ref="char:EOLhyphen"/>ouſneſs as a mighty ſtream;</hi> when you are upon the ſeat of Judgement Chriſt muſt be neareſt a kin unto you, <hi>Prov. 7.4. Say unto Wiſdome,</hi> that is unto Chriſt, <hi>thou art my Siſter, and call underſtanding thy Kinſwo<g ref="char:EOLhyphen"/>man, that they may keep thee from the ſtrange woman.</hi>
+            </p>
+            <p>The nearer the will and intereſt of Chriſt, the more ſtrange will, all by wayes of in<g ref="char:EOLhyphen"/>juſtice and partiality be to us; Kindred will be no Kindred: <hi>Zelucus</hi> when engaged to put out his Sons eyes for Adultery, would rather make a breach upon himſelf in the loſs of one eye, then on the juſt Law to fa<g ref="char:EOLhyphen"/>vour him.</p>
+            <p n="3">3. Such as are of a publick ſpirit to
+<pb n="40" facs="tcp:45675:24"/>proſecute the general good are ſuch men of truth as are fit for Magiſtracy; every Ma<g ref="char:EOLhyphen"/>giſtrate ſhould be as <hi>Nehemiah, A man come to ſeek the welfare of the Sons of Iſrael,</hi> Neh. <hi>2.10.</hi> for be is of God ſet in that work and place for that end to every one, <hi>Rom. 13.4. he is a Minister of God to thee for good, Africanus</hi> had that wholſome counſel, <hi>ne<g ref="char:EOLhyphen"/>ver to riſe from the Court till he had done good to one or other,</hi> now the publick good, the good of all may be promoted by the Ma<g ref="char:EOLhyphen"/>giſtrate in point of defence, diligence, in<g ref="char:EOLhyphen"/>genuity and peace.</p>
+            <p n="1">1. Defence, <hi>Hoſ. 4.18. Her ſhields are tranſlated Rulers,</hi> whence in the Eaſt <hi>Sultan</hi> (which ſignifies a Shield) is the uſual name of their Princes, upon which a learned Pro<g ref="char:EOLhyphen"/>teſtant wiſheth that ſome were not rather <hi>Scutica</hi> then <hi>Scuta,</hi> a Scourge rather then a Shield.</p>
+            <p n="2">2. Diligence, that the people may live induſtruouſly and not idly, for honeſty of life is under the Magiſtrates care, <hi>1 Tim. 2.2.</hi> Thus our Antient, holy ones <hi>Elton</hi> and <hi>Dod</hi> on the Commandments expreſs this care of honeſt labour and calling to be the Magiſtrates duty, and this ſome wiſe Ru<g ref="char:EOLhyphen"/>lers have thought neceſſary for the publick quiet.</p>
+            <pb n="41" facs="tcp:45675:24"/>
+            <p n="3">3. Ingenuity, for the drawing forth of this here in this Land, ſee the beſt Argument <hi>Pſal. 122.9. Becauſe of the houſe of the Lord our God</hi> I <hi>will ſeek thy good,</hi> becauſe the good and maintenance of ſo many Churches doth depend upon ſome wiſe conſideration of the gifts of men here, and the commodities of the Land; therefore it is not enough on<g ref="char:EOLhyphen"/>ly to take up that good which is obvious, but ſearch for that which is not, and well were it as ſeems to me, if we had a ſtanding Committee to relieve and weigh ſuch pro<g ref="char:EOLhyphen"/>poſitions tending to the better ſubſiſting of the people. I finde in the fifth liberty an allowance of a Monopoly on the producing a commodity now in the Land, and I per<g ref="char:EOLhyphen"/>ceive Magiſtrates and Miniſters, and moſt of the Husbandmen will finde the want of ſome ſtable commodity, which may com<g ref="char:EOLhyphen"/>mand ſupplies from abroad.</p>
+            <p n="4">4. Peace is the laſt thing I will name conducing to the publick good, which is proper for the Magiſtrate to promote, <hi>1 Tim 2.2.</hi> we are to pray for, and therefore en<g ref="char:EOLhyphen"/>deavour that Magiſtrates may maintaine Peace, and the Rulers Office is under the notion of an <hi>Healer,</hi> or binder up. <hi>Iſa. 3.7. Chebeſh,</hi> he is a <hi>Chirurgion,</hi> to bind up the wounds of the Country, <hi>Iſa. 1.6.</hi> There is
+<pb n="42" facs="tcp:45675:25"/>cloſing and cruſhing out the corrupt matter, and then binding up for the uniting of the parts; and then there is mollifying or ſup<g ref="char:EOLhyphen"/>pling, for the removing of the ſwelling and hardneſs. Now for this bleſſed work, the Magiſtrate needs an Eagles eye, and Lyons heart, and yet a Ladies ſoft and gentle hand.</p>
+            <p>Fathers and Brethren, ye are now to aſ<g ref="char:EOLhyphen"/>ſemble, being clothed with the chief Ma<g ref="char:EOLhyphen"/>giſtratical power of this poor Country; let me beſeech you in the Name of the Lord, to attend healing work, and to act as thoſe that are united as one man for the common good, that the people may be ſo; meddle not with any thing that may divide you in ſo dubious a time, remember that <hi>Gen. 13.7.</hi> the ſtrife between <hi>Abraham</hi> and <hi>Lot</hi> was very unreaſonable, becauſe the <hi>Cananite</hi> was then in the Land, and therefore <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> to allay and end the ſtrife, doth de<g ref="char:EOLhyphen"/>ny himſelf, and wave his right; ye know my Brethren, what new neighbours we have their buſie Locuſts will know and improve al your ſtrife &amp; other ſnares for you are boaſted of, therefore now is your ſeaſon for ſelf-denial: If you have any of you a thirſt and longing to make any change in Church or Common-wealth, and may be you ſee your help in the gate, and have it in your power,
+<pb n="43" facs="tcp:45675:25"/>yet let me entreat you in this joynt of time, not to follow but forbear your own deſires, becauſe they cannot be purſued without publick hazard; if any of you long for the waters of your Native land, yet forbear to drink them as <hi>David, 1 Chro. 11.17.</hi>
+            </p>
+            <p>Pardon me I pray you, if from what ap<g ref="char:EOLhyphen"/>pears above-board I cannot ſee how men here can finde any occaſion of diviſion, if they do not on ſome ſecret cauſe unſeaſon<g ref="char:EOLhyphen"/>ably ſeek it; what if ſome Brethren have departed from a particular Church, irregu<g ref="char:EOLhyphen"/>larly ſay ſome, regularly ſay others? but why ſhould this make any noiſe, heat and breach in the Land, ſince it is not held out as an ordinary caſe; the like may not be ſeen in an age, neither is this I hope, to be a Pre<g ref="char:EOLhyphen"/>ſident, nor is it upon any different Principles, though ſome differing application of Princi<g ref="char:EOLhyphen"/>ples, for it is expreſly owned on all hands that the major part of a Church muſt iſſue their matters, where the rule doth not con<g ref="char:EOLhyphen"/>tradict, neither can I underſtand why the queſtion about adult Children of the Church ſhould make any eſtrangement, ſince all godly men have the ſame ſcope to fetch in to Chriſt the young Generation: Some by giving thoſe priviledges which others deny to awaken them to look out for the true and
+<pb n="44" facs="tcp:45675:26"/>inward foundation of priviledges.</p>
+            <p>If upon ſuch grounds as theſe we admit of ſtrife, it will carker and ſour our ſpirits, and will take up ſo much of our heat and heart as to leave us faint and feeble for con<g ref="char:EOLhyphen"/>verting work.</p>
+            <p>The appearance of diſagreement among the Elders, will hinder the order of Chur<g ref="char:EOLhyphen"/>ches, which we would aſſert, and hinder the convertion of Youth which we would pro<g ref="char:EOLhyphen"/>mote, and promote prophaneſs, ſuperſti<g ref="char:EOLhyphen"/>tion and popery, which we would hinder; hinder did I ſay? nay, which we would with all our might hinder and watch againſt, for Satans great Attaque upon the Churches ſeems to ly that way, and may be Satan and his inſtruments will blow up either real di<g ref="char:EOLhyphen"/>viſion amongſt us, or the repute or report of it, that there may be a pretence of a neceſſi<g ref="char:EOLhyphen"/>ty to ſet up a Courtier for your Governour in the Common wealth, and a Prelate or ſomething like it in the Churches; and when Taxes and Tythes, and all kinde of vexation are upon you in your labours, and heavy burdens upon your Conſciences, then you will (may be cry and not be heard, becauſe of your wilful drawing ſuch things upon your ſelves, <hi>1 Sam. 8.18.</hi> then will you wiſh, <hi>Oh that we had hearkened to God and his ſer<g ref="char:EOLhyphen"/>vants
+<pb n="45" facs="tcp:45675:26"/>and had agreed,</hi> but were it not (my honoured Fathers and dear Brethren) better to work in hope for that agreement now, which we would wiſh for in vain.</p>
+            <p>Now therefore, let all <hi>New Englands</hi> friends for their comfort, and Enemies for their diſappointment know, that (bating ſome Exentricks) we are all general<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y a<g ref="char:EOLhyphen"/>greed in the Principles of purity and power of the Churches, and the liberty and ſafety of this people againſt all that ly<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in wait a<g ref="char:EOLhyphen"/>gainſt us, whether nearer or further off.</p>
+            <p>Bear with me I beſeech you, that I have been ſo large in a matter which lay upon my heart with ſo great weight; I ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll now haſten to a concluſion when I have only tou<g ref="char:EOLhyphen"/>ched upon:</p>
+            <p n="4">4. Qualification of them that ſhould be ſet up in Magiſtratical power, <hi>hating Cove<g ref="char:EOLhyphen"/>teouſneſs;</hi> this Coveteouſneſs which doth incapacitate a man for Magiſtracy, is an earneſt intentiveneſs upon wealth and in<g ref="char:EOLhyphen"/>creaſe of eſtate: A coveteous Magiſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, Deputy or Commiſſioner, will be ſo buſie upon particular advantage, that for want of that he will think much of time and pains for publick good, and will be indulging <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vice if he can gain by it, the Creek <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> could ſay <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (love of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="46" facs="tcp:45675:27"/>is the ruſt of the ſoul, and that it is Sacriledge to get wealth from the publick, and gives even a divine rule that Magiſtracy is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> not a trading and merchandize but a Miniſtry, be that diſpi<g ref="char:EOLhyphen"/>ſeth the gain of oppreſſion, that ſhaketh his hands from holding of bribes, <hi>Iſai. 33.14.15</hi> ſhall hold up his head when all the world is on fire, and ſuch a fire ſeems kindling now, and happy are they who will ſhake off ſuch gain, as a ſpark of hell, or a viper lighting upon them, as <hi>Paul did Act. 28.5.</hi> But now it is time to conclude, leaſt while I ſhould help I ſhould hinder the work of the day, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concluſion I would adde two words.</p>
+            <p n="1">1. If you have had and ſhall have reſpect to God, in conſtituting and adminiſtring of Magiſtracy, then we muſt be thankful to the Lord for ſuch Magiſtrates that we have li<g ref="char:EOLhyphen"/>berty to chuſe ſuch, and that we have ſuch to chuſe: Elſe where their Magiſtrates and Officers, Governour and Major General, their Secretary, yea, their Marſhal is from abroad, and the Colony have no judgement of their fitneſs permitted to them; yea, we muſt be thankful, not only for, but to ſuch <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>giſtrates and Deputies th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> accept and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their truſt, for indeed we are behol<g ref="char:EOLhyphen"/>den
+<pb n="47" facs="tcp:45675:27"/>to them for ſo mean a <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is allowed, that they will put the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ders under ſo great a burthen in totter<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> and troubleſome times, let all the Inhabi<g ref="char:EOLhyphen"/>tants incourage them in their work, for all your mirth and proſperity will ceaſe when ſuch Rulers do, <hi>Lam. 5.14. The Elders have ceaſed from the Gate, the Young men from their Muſick.</hi>
+            </p>
+            <p>If your choice and adminiſtration be not to the mind of God; exerciſe experience for your unworthineſs; your weakneſs in Faith, Prayer, Watching and Working, for God would have you work <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t all your ſalvations, <hi>Eccl. 10.18. By much ſlothfulneſs the building decayeth, and through idleneſs of the hands the houſe droppeth through,</hi> Prov. 12.24. <hi>The hand of the diligent ſhall bear rule, but the ſlothful ſhall be under tribute,</hi> all the decayes of the fair building of Govern<g ref="char:EOLhyphen"/>ment here, all thralldome, and all your de<g ref="char:EOLhyphen"/>ſtructions muſt needs be of your ſelves, and your own default eſpecially the Freemen.</p>
+            <p n="2">2. Exerciſe Faith, if ye ſeek the Lord, he <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill not caſt you off, he hath expreſſed him<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lf ſo in promiſe, <hi>1 Sam. 12.22. The Lord will not forſake his people for his great names ſake, becauſe it hath pleaſed the Lord to make you his people;</hi> therefore howſoever mat<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>
+               <pb n="48" facs="tcp:45675:28" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>aſide from following the Lord, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lord with all your heart, for the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> will not forſake,</hi> and ſo hath the Lord <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>preſſed himſelf in performance to you hi<g ref="char:EOLhyphen"/>therto, <hi>Iſa. 26.3. ye are born by him from the belly, and are carried from the womb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and let this be our comfort, the Lord Jeſus will put an end to all the diſorders of Governe<g ref="char:EOLhyphen"/>ment, and the more diſorders of that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>and the foundations are out of courſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> the more are we forced to cry, <hi>Pſal. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> riſe O Lord, judge the Earth, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Nations:</hi> This may awaken our <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Lord Jeſus, Come Lord Jeſus <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> quickly, even ſo, <hi>AMEN.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
